@@ -1,5 +1,4 @@
 # meu-portifolio
-Aula de CSS|Flexbox
 Reunir dados do curriculo
 projetos executados
 tentar incluir aprendizados adquiridos durante o curso, com responsabilidade.
