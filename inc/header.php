@@ -44,7 +44,6 @@
                     <li>Trabalho em equipe</li>
                     <li>Comunicação</li>
                 </ul>
-            hsgfdjdgfhjkhdfsgfsbdsfgdfvcdsfkjghjdffgdfgsdf
         </section>
         <section>
             <h2>Certificações</h2>
@@ -82,6 +81,24 @@
         </section>
     </main>
     <aside>
+        <section>
+            <h3>Cursos</h3>
+                <ul type="none">
+                    <li>2020 – Desenvolvedor Web Full Stack | Digital House</li>
+                    <li>2020 – Competência Transversal - Lógica de Programação |SENAI</li>
+                    <li>2020 – Criando repositório para projetos inovadores | Digital Innovation One - Carrefour</li>
+                    <li>2020 – Introdução ao Git e controle de versões | Digital Innovation One - Carrefour</li>
+                    <li>2020 – Introdução GitHub | Digital Innovation One - Carrefour</li>
+                    <li>2020 – Lógica de Programação essencial | Digital Innovation One – Carrefour</li>
+                    <li>2020 – Marketing Digital | Faculdade Anhanguera</li>
+                    <li>2020 – PMBOK 6 Gerenciamento de Projetos | Green Tecnologia</li>
+                    <li>2019 – COBIT 5 Fundamentos |Green Tecnologia</li>
+                    <li>2019 – ITIL 4 Fundamentos | Green Tecnologia</li>
+                    <li>2019 – Técnicas de Comunicação e Oratória para Profissionais| Green Tecnologia</li>
+                    <li>2018 – Excel Intermediário | SENAI</li>
+                    <li>2017 – Excelência no atendimento ao cliente | AES Eletropaulo</li>
+                </ul>
+        </section>
         <section>
             <h3>Formação</h3>
             <p>2016 – 2021 Engenharia Elétrica | <b>Cursando</b> 9º Semestre</p>
