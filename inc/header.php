@@ -28,13 +28,15 @@
                 </div>
             </div>   
         </section>
+        <hr>
         <section>
             <h2>Portfolio</h2>
             <a href="#" title="Projeto feito em grupo na Digital House">e-commerce</a>
         </section>
+        <hr>
         <section>
             <h2>Soft Skills</h2>
-                <ul type="none">
+                <ul>
                     <li>Foco</li>
                     <li>Determinação</li>
                     <li>Comprometimento</li>
@@ -45,14 +47,16 @@
                     <li>Comunicação</li>
                 </ul>
         </section>
+        <hr>
         <section>
             <h2>Certificações</h2>
-                <ul type="none">
+                <ul>
                     <li>2019 – Scrum Fundamentals Certified |SCRUMStudy | <b>Credencial: 681056</b></li>
                     <li>2019 – Six Sigma Yellow Belt Professional | SCRUMStudy | <b>Credencial: 673860</b></li>
                     <li>2019 – Lean Six Sigma White Belt |EDTI | <b>Credencial: 014523</b></li>
                 </ul>
         </section>
+        <hr>
         <section>
             <h2>Idiomas</h2>
             <table class="table table-striped text center mt-3">
@@ -79,11 +83,12 @@
                     </tr>
                 </table>
         </section>
+        <hr>
     </main>
     <aside>
         <section>
             <h3>Cursos</h3>
-                <ul type="none">
+                <ul>
                     <li>2020 – Desenvolvedor Web Full Stack | Digital House</li>
                     <li>2020 – Competência Transversal - Lógica de Programação |SENAI</li>
                     <li>2020 – Criando repositório para projetos inovadores | Digital Innovation One - Carrefour</li>
