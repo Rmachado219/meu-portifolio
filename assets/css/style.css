@@ -6,15 +6,50 @@
     scroll-behavior: smooth;
 }
 
+header,
+footer {
+    background-color:rgba(175,164,189);
+    padding: 16px;
+    color: white;
+}
+header {
+    filter:drop-shadow(0 3px 3px rgba(0,0,0,0.5));
+}
+header div{
+    font-size: 16px;
+}
+header div p:first-child {
+    font-size: 1.5em;
+}
+header div p:first-child i {
+    font-size: 1.2em;
+    transition: all 0.5s ease-in-out;
+}
+header div p:first-child i:hover {
+    filter:drop-shadow( 5px 2px 2px rgb(62, 250, 71))
+}
+footer {
+    filter:drop-shadow(0 -3px 3px rgba(0,0,0,0.5));
+    text-align: center;
+    font-size: 1.0em;
+}
+
+
+
+
+
+
+
+
 a {
     text-decoration: none;
     color:inherit;
     font-weight: bolder;
-    transition: color 0.8s ease-in;
+    transition: color 0.3s ease-in;
 }
-a:hover {
-    color: lawngreen;
-}
+/* a:hover {
+    color: rgb(212, 135, 18);
+} */
 
 main,
 aside{
@@ -26,37 +61,20 @@ aside{
 ul {
     list-style: none;
 }
-li:first-child,
-hr
- {
-    margin: 10px 0;
-}
-header {
-    font-weight: bold;
-    color: blue;
-}
-#irParaTopo, p:first-child {
+
+#irParaTopo, p {
     font-weight: bold;
 }
 
 a[href="#inicioPg"] {
-    background-color: crimson;
-    color: #fff;
-    border: 2px dotted rgb(0,0,0);
-    padding: 10px 20px;
-    text-transform: capitalize;
-    height: 60px;
-    width: fit-content;
-    border-radius: 30px;
-    margin: 20px 30px;
+    font-size: 1.2em;
+    background-color: hidden;
+    color: yellow;
+    text-transform: lowercase;
     display: block;
-}
-img {
-    border-radius: 50%;
-    transition: all 0.8s ease-in-out;
-}
-img:hover {
-    transform: rotate(270deg) scale(1.5);
-    filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));
-    border: 5px solid blue;
+    position: fixed;
+    bottom: 2px;
+    right:14px;
+    padding: 5px 10px;
+    
 }

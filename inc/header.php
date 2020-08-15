@@ -1,39 +1,35 @@
 <body>
     <header id="inicioPg">
             <h1>Desenvolvedor Web Junior</h1>
-            <p>
-                Rodrigo Morais Machado | <a href="https://github.com/Rmachado219" target="_blank" rel="noopener" title="Acesse meu perfil no github">github</a> | <a href="https://www.linkedin.com/in/rodrigo-machado-735b92186/" target="_blank" rel="noopener" title="Acesse meu perfil no Linkedin">Linkedin</a>
-            </p>
-            <p>
-                <a href="mailto:rodrigmachado11@gmail.com?subject=Possivel%20vaga" title="Entre e contato comigo por email">rodrigmachado11@gmail.com</a> | <a href="tel:+5511985787708" title="Entre em contato comigo pelo celular">(11)985787708</a> / <a href="tel:+551142217672" title="Entre em contato comigo pelo residencial">(11)42217672</a> | São Caetano do Sul/SP
-            </p>
-    </header>
+            <div>
+                <p>Rodrigo Morais Machado | <a href="https://github.com/Rmachado219" target="_blank" rel="noopener" title="Acesse meu perfil no github"><i class="fab fa-github"></i></a> | <a href="https://www.linkedin.com/in/rodrigo-machado-735b92186/" target="_blank" rel="noopener" title="Acesse meu perfil no Linkedin"><i class="fab fa-linkedin"></i></a></p>
+                <p><a href="mailto:rodrigmachado11@gmail.com?subject=Possivel%20vaga" title="Entre e contato comigo por email">rodrigmachado11@gmail.com</a> | <a href="tel:+5511985787708" title="Entre em contato comigo pelo celular">(11) 985787708</a> / <a href="tel:+551142217672" title="Entre em contato comigo pelo residencial">(11) 42217672</a> | São Caetano do Sul/SP</p>
+            </div>
+        </header>
     <main>
         <section>
         <h2>Hard Skills</h2>
             <div class="text center mt-3">
                 <div class="row ml-3 col-12">
-                    <p class="mr-4"><b><i>HTML5</i></b></p>
-                    <p class="mr-4"><b><i>CSS3</i></b></p>
-                    <p class="mr-4"><b><i>PHP</i></b></p>
-                    <p class="mr-4"><b><i>MySql</i></b></p>
-                    <p class="mr-4"><b><i>Laravel</i></b></p>
-                    <p class="mr-4"><b><i>JavaScript</i></b></p>
-                    <p class="mr-4"><b><i>GitHub</i></b></p>
-                    <p class="mr-4"><b><i>Visual Studio Code</i></b></p>
-                    <p class="mr-4"><b><i>Excel</i></b></p>
-                    <p class="mr-4"><b><i>Word</i></b></p>
-                    <p class="mr-4"><b><i>Power Point</i></b></p>
-                    <p class="mr-4"><b><i>Outlook</i></b></p>
+                    <p class="mr-4">HTML5</p>
+                    <p class="mr-4">CSS3</p>
+                    <p class="mr-4">PHP</p>
+                    <p class="mr-4">MySql</p>
+                    <p class="mr-4">Laravel</p>
+                    <p class="mr-4">JavaScript</p>
+                    <p class="mr-4">GitHub</p>
+                    <p class="mr-4">Visual Studio Code</p>
+                    <p class="mr-4">Excel</p>
+                    <p class="mr-4">Word</p>
+                    <p class="mr-4">Power Point</p>
+                    <p class="mr-4">Outlook</p>
                 </div>
             </div>   
         </section>
-        <hr>
         <section>
             <h2>Portfolio</h2>
             <a href="#" title="Projeto feito em grupo na Digital House">e-commerce</a>
         </section>
-        <hr>
         <section>
             <h2>Soft Skills</h2>
                 <ul>
@@ -47,7 +43,6 @@
                     <li>Comunicação</li>
                 </ul>
         </section>
-        <hr>
         <section>
             <h2>Certificações</h2>
                 <ul>
@@ -56,7 +51,6 @@
                     <li>2019 – Lean Six Sigma White Belt |EDTI | <b>Credencial: 014523</b></li>
                 </ul>
         </section>
-        <hr>
         <section>
             <h2>Idiomas</h2>
             <table class="table table-striped text center mt-3">
@@ -83,7 +77,6 @@
                     </tr>
                 </table>
         </section>
-        <hr>
     </main>
     <aside>
         <section>
