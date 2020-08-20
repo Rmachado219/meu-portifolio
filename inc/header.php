@@ -13,21 +13,14 @@
         <section class="row">
             <h2>Hard Skills</h2>
             <a class="icones"><i class="fas fa-dumbbell"></i></a>
-                <div class="row col-12">
-                    <p>HTML5</p>
-                    <p>CSS3</p>
-                    <p>PHP</p>
-                    <p>Bootstrap</p>
-                    <p>MySql</p>
-                    <p>Laravel</p>
-                    <p>JavaScript</p>
-                    <p>GitHub</p>
-                    <p>Visual Studio Code</p>
-                    <p>Excel</p>
-                    <p>Word</p>
-                    <p>Power Point</p>
-                    <p>Outlook</p>
-                </div>
+            <div class="row col-12 ml-auto mb-2 mt-3 font-weight-bold">
+                <?php
+                    $skill=["HTML5, ", "CSS3, ", "PHP, ", "BOOTSTRAP, ", "MYSQL, ", "LARAVEL, ", "JAVASCRIPT, ", "GITHUB, ", "VISUAL STUDIO CODE, ", "EXCEL, ", "WORD, ", "POWER POINT, ", "OUTLOOK"];
+                    for ($i=0; $i < count($skill); $i++) { 
+                        echo $skill[$i] . " ";
+                    }
+                    ?>
+            </div>
         </section>
         <section class="row">
             <h2>Portfólio</h2>
@@ -42,14 +35,14 @@
             <a class="icones"><i class="fas fa-dna"></i></a>
         </section>
                 <ul>
-                    <li>Foco</li>
-                    <li>Determinação</li>
-                    <li>Comprometimento</li>
-                    <li>Pontualidade</li>
-                    <li>Liderança</li>
-                    <li>Resiliência</li>
-                    <li>Trabalho em equipe</li>
-                    <li>Comunicação</li>
+                    <li class="ml-auto text-left ">
+                        <?php
+                            $skill2=["Comprometimento", "Comunicação", "Determinação", "Foco", "Liderança", "Resiliência", "Trabalho em equipe"];
+                            for ($i=0; $i < count($skill2); $i++) { 
+                                echo $skill2[$i] . "<br>";
+                            }
+                        ?>
+                    </li>
                 </ul>
         <section class="row">
             <h2>Certificações</h2>

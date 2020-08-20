@@ -26,18 +26,14 @@ header section p{
 }
 header {
     filter:drop-shadow(0 3px 3px rgba(28, 228, 105, 0.5));
-    background-image: linear-gradient(25deg,#a2a50b, #93e8eb );
-}
-main div p{
-    margin:0 15px 2px 15px;
-    font-weight: bold;
+    
 }
 main,
 aside {
     margin:25px;
     padding: 25px;
     filter:drop-shadow(0 3px 5px rgba(5, 6, 8, 0.766));
-    background-color: rgba(0, 67, 192, 0.164);
+    background-color: rgba(0, 65, 189, 0.144);
 }
 #eCommerce{
     font-size: 1.5em;
@@ -88,55 +84,3 @@ footer {
 section{
     padding: 10px;
 }
-
-/* header,
-footer {
-    background-color:rgb(180, 230, 140);
-    padding: 16px;
-    color: black;
-}
-header h1 {
-    
-}
-
-
-header div{
-    font-size: 16px;
-}
-header div p{
-    font-size: 1.3em;
-    margin-left: 6px;
-}
-header div p {
-    font-size: 1.2em;
-    transition: all 0.5s ease-in-out;
-}
-header div p:first-child i:hover {
-    filter:drop-shadow( 5px 2px 2px rgb(62, 250, 71))
-}
-
-main,
-aside{
-    margin: 20px 40px;
-    border-radius: 20px;
-    padding: 15px;
-    background-color: rgb(217,200,185);
-}
-
-
-#irParaTopo, p {
-    font-weight: bold;
-}
-
-a[href="#inicioPg"] {
-    font-size: 1.2em;
-    background-color: hidden;
-    color: yellow;
-    text-transform: lowercase;
-    display: block;
-    position: fixed;
-    bottom: 2px;
-    right:14px;
-    padding: 5px 10px;
-    
-} */
