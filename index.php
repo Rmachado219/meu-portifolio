@@ -101,7 +101,7 @@ require_once("./inc/head.php");
         <h3>Formação</h3>
         <a class="icones"><i class="fas fa-book-open"></i></a>
     </section>
-    <p>2016 – 2021 Engenharia Elétrica | <b>Cursando</b> 9º Semestre</p>
+    <p>Engenharia Elétrica</p>
     <section class="row">
         <h3>Experiencia</h3>
         <a class="icones"><i class="fas fa-flask"></i></a>
